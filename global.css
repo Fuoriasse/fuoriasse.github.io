@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Stolzl_Display";
+  src: url(/assets/Stolzl_Display.otf);
+}
+@font-face {
+  font-family: "Stolzl_Regular";
+  src: url(/assets/Stolzl-Regular.ttf);
+}
+
+.prevent-selection {
+  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+}
