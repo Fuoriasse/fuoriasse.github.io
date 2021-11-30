@@ -14,3 +14,18 @@
   -webkit-user-select: none;
   -o-user-select: none;
 }
+
+.delay-text-in-1500 {
+  opacity: 0;
+  animation-delay: 1500ms;
+}
+
+.delay-text-in-1000 {
+  opacity: 0;
+  animation-delay: 1000ms;
+}
+
+.delay-text-in-500 {
+  opacity: 0;
+  animation-delay: 500ms;
+}
